@@ -1,16 +1,16 @@
-Netflix Clone with React Native
+# Netflix Clone with React Native
 Welcome to the Netflix Clone app built using React Native! This app allows users to experience a simplified version of Netflix, where they can log in using their email address and enjoy streaming videos.
 
-Netflix Clone
+# Netflix Clone
 
-Getting Started
+# Getting Started
 To run the app on your local machine, follow these steps:
 
-Prerequisites
+# Prerequisites
 Before you begin, ensure you have the following installed on your system:
 
 Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) installed. You can download them from nodejs.org.
-Installation
+# Installation
 Clone this repository to your local machine using:
 
 bash
@@ -32,14 +32,14 @@ The Metro Bundler will start and provide you with options to run the app on a ph
 
 Choose your desired platform (iOS or Android) and follow the instructions to run the app.
 
-Usage
+# Usage
 When you launch the app, you'll be prompted to enter a valid email address. Please use a legitimate email address for testing purposes.
 
 After entering the email, you'll be taken to the main screen where you can browse through available videos.
 
 To play a video, simply tap on its thumbnail or title. The app will use a YouTube component to play the selected video.
 
-Contributing
+# Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to create an issue or submit a pull request. Please make sure to follow the code of conduct when contributing.
 
 License
