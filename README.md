@@ -1,8 +1,6 @@
 # Netflix Clone with React Native
 Welcome to the Netflix Clone app built using React Native! This app allows users to experience a simplified version of Netflix, where they can log in using their email address and enjoy streaming videos.
 
-# Netflix Clone
-
 # Getting Started
 To run the app on your local machine, follow these steps:
 
@@ -14,7 +12,7 @@ Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) insta
 Clone this repository to your local machine using:
 
 bash
-git clone https://github.com/yourusername/netflix-clone-react-native.git
+git clone https://github.com/Aayush-047/netflix-clone-react-native.git
 Navigate to the project directory:
 
 bash
